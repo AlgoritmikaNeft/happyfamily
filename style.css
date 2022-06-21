@@ -1,0 +1,27 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: #4E8EBF;
+}
+
+a {
+   background-color: #FFAD40;
+   padding: 0px 5px 0px 5px;
+   border-radius: 8px;
+}
+
+main h1 {
+    text-align: center;
+    font-size: 35px;
+}
+
+li {
+    font-size: 15px;
+    list-style: url("https://learn.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg");
+}
+
+footer {
+    
+}
